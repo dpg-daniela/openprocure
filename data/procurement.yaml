@@ -200,6 +200,7 @@
   state: NY
   type: City
   formal_threshold: $100,000
+  formal_url: 'http://www.nyc.gov/html/sbs/downloads/pdf/rfp_process.pdf'
   contributed_by: Kenny Cunanan
   population: 8340000
   updated_at: 2015-01-15
